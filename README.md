@@ -1,4 +1,4 @@
 ¡Hola hola!, Soy @LilCodes o LilThun en otras redes.
-En 2021 aprendí a utilizar lo básico de Python y me enamoré de este lenguaje de programación <3
+Sé algo de C y C++, tengo mas experiencia en Python, y recientemente me he visto obligada a aprender Java 💀
 
-Procederé a aprender más de este mismo jijijija.
+Deséenme suerte.
